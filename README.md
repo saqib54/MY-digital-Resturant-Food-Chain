@@ -77,10 +77,6 @@ This repository is aimed to help people to contribute in open source and learn G
    - **macOS**: Open Terminal (Cmd + Space, type `Terminal`).
    - **Linux**: Open Terminal (Ctrl + Alt + T).
 
-2. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/khushi-joshi-05/Food-ordering-website.git
-   ```
    This will create a `FoodOrderingWebsite` directory with all project files.
 
 ## 📂 Navigate to the Project Directory
@@ -238,4 +234,5 @@ This project is licensed under the [MIT License](./LICENSE).
 <br>
 
 Show some ❤️ by starring this awesome repository!
+
 
